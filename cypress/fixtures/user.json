@@ -1,0 +1,15 @@
+{
+    "email": "emailclient4@orange.fr",
+    "email2": "emailclient5@orange.fr",
+    "emailAlreadyUsed": "emailclient1@orange.fr",
+    "emailBadFormat": "emailclient1@orange.a",
+    "emailSpecialCharacter": "emailclient3!@orange.fr",
+    "pwd": "aaaaaA1!",
+    "pwd2": "aaaaaaA1!",
+    "pwdTooShort": "aaaaA1!",
+    "pwdTooLong": "aA1!aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "pwdNoCaps": "aaaaaa1!",
+    "pwdNoLowerCase": "AAAAAA1!",
+    "pwdNoNumber": "aaaaaaA!",
+    "pwdNoSpecial": "aaaaaaA1"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "MVMS",
+  "version": "1.0",
+  "description": "Automatisation de tests d'inscription sur le site web de Ma Ville Mon Shopping",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open",
+  },
+  "devDependencies": {}
+}
